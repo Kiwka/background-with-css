@@ -1,0 +1,16 @@
+.grid {
+	margin: 100px auto;
+	width: 400px;
+	height: 400px;
+	box-shadow: 5px 5px 5px #555;
+	background: 
+		repeating-linear-gradient(90deg, transparent, transparent 46px, rgba(255,0,0,.2) 46px, rgba(255,0,0,.2) 49px, rgba(255,255,255,.5) 49px, rgba(255,255,255,.5) 50px, transparent 50px, transparent 56px, rgba(255,255,255,.5) 56px, rgba(255,255,255,.5) 57px, rgba(255,0,0,0.2) 57px, rgba(255,0,0,0.2) 60px, transparent 60px, transparent 80px),
+		repeating-linear-gradient(0deg, transparent, transparent 46px, rgba(255,0,0,.2) 46px, rgba(255,0,0,.2) 49px, rgba(255,255,255,.5) 49px, rgba(255,255,255,.5) 50px, transparent 50px, transparent 56px, rgba(255,255,255,.5) 56px, rgba(255,255,255,.5) 57px, rgba(255,0,0,0.2) 57px, rgba(255,0,0,0.2) 60px, transparent 60px, transparent 80px),
+		repeating-linear-gradient(90deg, transparent, transparent 31px, rgba(0,0,0,.3) 31px, rgba(0,0,0,.3) 32px, transparent 32px, transparent 34px, rgba(0,0,0,.3) 34px, rgba(0,0,0,.3) 35px, transparent 35px, transparent 40px),
+		repeating-linear-gradient(0deg, transparent, transparent 31px, rgba(0,0,0,.3) 31px, rgba(0,0,0,.3) 32px, transparent 32px, transparent 34px, rgba(0,0,0,.3) 34px, rgba(0,0,0,.3) 35px, transparent 35px, transparent 40px),
+		repeating-linear-gradient(90deg, transparent, transparent 11px, rgba(255,0,0,.3) 11px, rgba(255,0,0,.3) 12px, transparent 12px, transparent 14px, rgba(255,0,0,.3) 14px, rgba(255,0,0,.3) 15px, transparent 15px, transparent 80px),
+		repeating-linear-gradient(0deg, transparent, transparent 11px, rgba(255,0,0,.3) 11px, rgba(255,0,0,.3) 12px, transparent 12px, transparent 14px, rgba(255,0,0,.3) 14px, rgba(255,0,0,.3) 15px, transparent 15px, transparent 80px),
+		repeating-linear-gradient(90deg, rgba(0,0,0,.3), rgba(0,0,0,.3) 6px, rgba(13,29,45,.4) 6px, rgba(13,29,45,.4) 20px, rgba(0,0,0,.3) 20px, rgba(0,0,0,.3) 26px, transparent 26px, transparent 40px),
+		repeating-linear-gradient(0deg, rgba(0,0,0,.3), rgba(0,0,0,.3) 6px, rgba(13,29,45,.4) 6px, rgba(13,29,45,.4) 20px, rgba(0,0,0,.3) 20px, rgba(0,0,0,.3) 26px, transparent 26px, transparent 40px);
+	background-color: #0a3c1c;
+}
